@@ -16,11 +16,11 @@ class cadastroPage{
     }
 
     informarusername(){
-        cy.get(Elements.username()).type("TesteCy5")
+        cy.get(Elements.username()).type("TesteCy6")
     }
 
     informaremail(){
-        cy.get(Elements.email()).type("teste@1045.com")
+        cy.get(Elements.email()).type("teste@1046.com")
     }
 
     informarpassword(){
